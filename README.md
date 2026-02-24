@@ -1,4 +1,35 @@
 # 💫 About Me:
+
+👋 Hi, I’m Jason Praveen Kumar Puli
+
+🚀 Full Stack Web Developer | Tech Career Transitioner | Lifelong Learner
+
+I’m a passionate Full Stack Web Developer transitioning into tech with strong analytical and problem-solving skills.
+
+I bring over a decade of professional experience in non-IT roles and leverage that background to tackle complex coding challenges and deliver business-focused software solutions. I’m driven by continuous learning and building meaningful projects that solve real problems.
+
+✨ What I Do
+
+Develop scalable and maintainable applications using modern tech stacks
+
+Work with full stack technologies including:
+HTML • CSS • JavaScript • React • Node.js • Django • Spring
+
+Build practical, real-world projects that demonstrate clean architecture and problem-solving
+
+🚀 Currently Learning & Exploring
+
+Advanced web application architecture
+
+Cloud deployment workflows
+
+CI/CD automation (GitHub Actions, GitLab CI)
+
+Performance optimization & best practices
+
+📫 Let’s Connect
+
+I’m open to collaborations, constructive feedback, and opportunities to grow as a developer.
 🚀Results-driven professional with over a decade of experience in non-IT domains.<br>🧠Strong analytical thinking, stake-holder communication, and problem-solving capabilities combined with modern web development exper-tise.<br>💻 I transitioned into Full Stack Web Developer.<br>🔭Seeking Full Stack Web Developer role to apply technical skills and domain knowledge in delivering<br>business-focused solutions.<br><br>
 
 
