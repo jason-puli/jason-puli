@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀Results-driven professional with over a decade of experience in non-IT domains.<br>🧠Strong analytical thinking, stake-holder communication, and problem-solving capabilities combined with modern web development exper-<br>tise.<br>💻 I transitioned into Full Stack Web Developer.<br>🔭Seeking Full Stack Web Developer role to apply technical skills and domain knowledge in delivering<br>business-focused solutions.<br><br>
+🚀Results-driven professional with over a decade of experience in non-IT domains.<br>🧠Strong analytical thinking, stake-holder communication, and problem-solving capabilities combined with modern web development exper-tise.<br>💻 I transitioned into Full Stack Web Developer.<br>🔭Seeking Full Stack Web Developer role to apply technical skills and domain knowledge in delivering<br>business-focused solutions.<br><br>
 
 
 ## 🌐 Socials:
