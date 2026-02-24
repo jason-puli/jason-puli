@@ -31,8 +31,8 @@ Performance optimization & best practices
 
 I’m open to collaborations, constructive feedback, and opportunities to grow as a developer.
 
-🚀Results-driven professional with over a decade of experience in non-IT domains.<br>
-🧠Strong analytical thinking, stake-holder communication, and problem-solving capabilities combined with modern web development exper-tise.<br>
+🚀Results-driven professional with over a decade of experience in non-IT domains.<br><br>
+🧠Strong analytical thinking, stake-holder communication, and problem-solving capabilities combined with modern web development exper-tise.<br><br>
 🔭Seeking Full Stack Web Developer role to apply technical skills and domain knowledge in delivering<br>business-focused solutions.<br><br>
 
 
